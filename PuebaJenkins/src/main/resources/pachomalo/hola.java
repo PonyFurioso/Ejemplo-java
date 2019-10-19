@@ -8,8 +8,7 @@ public class hola {
 
 	}
 	
-	public int some(n) {
-		return n;
+	public int some(int n) {
 	}
 
 }
